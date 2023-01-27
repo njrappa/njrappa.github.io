@@ -1,5 +1,3 @@
-My Stuff
+<h1>My Sites</h1>
 
-<a href="https://njrappa.github.io/accelerate_site/">Test Site</a>
-<br>
-<a href="/accelerate_site/">My Site</a>
+<p><a href="/accelerate_site/">My Site</a></p>
